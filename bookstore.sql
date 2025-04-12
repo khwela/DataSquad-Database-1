@@ -1,6 +1,9 @@
+-- Create Bookstore Database
 create database bookstore;  
 
+-- Select Bookstore database
 use bookstore;
+
 -- Create tables for a bookstore database
 
 CREATE TABLE author (
