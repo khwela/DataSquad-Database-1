@@ -35,8 +35,8 @@ VALUES
 
 INSERT INTO customer (first_name, last_name, email, phone) 
 VALUES 
-('John', 'Doe', 'john.doe@example.com', '1234567890'),
-('Jane', 'Smith', 'jane.smith@example.com', '0987654321');
+('John', 'Doe', 'john.doe@example.com', '+27 72 567 9890'),
+('Jane', 'Smith', 'jane.smith@example.com', '+254 98 765 4321');
 
 INSERT INTO customer_address (customer_id, address_id) 
 VALUES 
